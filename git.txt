@@ -1,3 +1,3 @@
 git clone https://github.com/anhphuonghihi/HTQLDATNHUMG.git
-git clone branch trang https://github.com/anhphuonghihi/HTQLDATNHUMG.git
+git clone --branch trang https://github.com/anhphuonghihi/HTQLDATNHUMG.git
 git pull origin trang
