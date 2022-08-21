@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.about_images{
+    weight: 60px;
+    height: 60px;
+}
+.about_Character{
+    display: flex;
+    margin-top: 20px;
+    
+
+}
+.about_info_Character{
+    margin-left:10px ;
+}
