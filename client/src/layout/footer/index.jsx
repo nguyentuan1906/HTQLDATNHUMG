@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
         <div className={styles["footer"]}>
-           <p></p>
+           <p>Copyright © 2020 Trường Đại học Mỏ - Địa chất</p>
 
         </div>
     </div>
