@@ -1,18 +1,16 @@
 // rafce
-import React from 'react'
-import styles from "./footer-public.module.scss"
+import React from "react";
+import { useTranslation } from "react-i18next";
+import styles from "./footer-public.module.scss";
 const Footer = () => {
-    const { t } = useTranslation();
+  const { t } = useTranslation();
   return (
     <div>
-        <div className={styles["footer"]}>
-           <p>Copyright © 2022 Trường Đại học Mỏ - Địa chất</p>
-           {t('english')}
-        
-        </div>
+      <div className={styles["footer"]}>
+        <div>{t("copy")}</div>
+      </div>
     </div>
-    
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
