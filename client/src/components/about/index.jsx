@@ -1,6 +1,5 @@
 // rafce
 import React from 'react'
-import Images from './images_about/test2_listen 5.png'
 import styles from "./about.module.scss"
 const team=[
     {
