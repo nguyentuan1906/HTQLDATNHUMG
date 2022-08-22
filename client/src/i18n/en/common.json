@@ -4,5 +4,28 @@
     "english":"English",
     "vietnamese":"Vietnamese",
     "contact":"Contact Us",
-    "about":"About"
+    "about":"About",
+    "team":"Team",
+    "teams":{
+      "name1": "Le Minh Phuong",
+      "post1": "Leader",
+      "info1": "Computer Network Engineers",
+
+      "name2": "Anh Tuan",
+      "post2": "Member",
+      "info2": "Software Technology Engineers",
+
+      "name3": "Thuy Trang",
+      "post3": "Member",
+      "info3": "Computer Network Engineers",
+
+      "name4": "Dao Thuy Duong",
+      "post4": "Member",
+      "info4": "Software Technology Engineers",
+
+      "name5": "Truong Thi Hoai Thuong",
+      "post5": "Member",
+      "info5": "Software Technology Engineers"
+
+    }
   }
