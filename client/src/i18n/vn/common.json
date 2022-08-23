@@ -5,5 +5,12 @@
     "vietnamese":"Tiếng việt",
     "contact":"Liên hệ",
     "about":"Giới thiệu",
-    "team":"Nhóm"
-  }
+    "team":"Nhóm",
+
+    "feature": "Tính Năng",
+    "projectRegistration": "Đăng ký dồ án",
+    "projectList": "Danh sách đồ án",
+    "projectDefenseSchedule": "Lịch bảo vệ dô án",
+    "projectPoin": "Điểm đồ án",
+    "studentList": "Danh sách sinh viên"
+}
