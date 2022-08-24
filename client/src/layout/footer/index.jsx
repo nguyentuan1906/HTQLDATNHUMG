@@ -6,8 +6,13 @@ const Footer = () => {
   const { t } = useTranslation();
   return (
     <div>
+      <div>
+        
+      </div>
+      
       <div className={styles["footer"]}>
-        <div>{t("copy")}</div>
+        <div className={styles["copy"]}>{t("copy")}</div>
+        <div className={styles["nhom"]}>{t("nhom")}</div>
       </div>
     </div>
   );
