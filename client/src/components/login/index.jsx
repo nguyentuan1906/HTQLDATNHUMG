@@ -15,7 +15,7 @@ const Login = () => {
         <form className={styles["login"]}>
           <input className={styles["Login_acountName"]} type="text" placeholder={t('acountName')} />
           <input className={styles["login_password"]} type="password" placeholder={t('password')} />
-          <a className={styles["login_forgotPassword"]} href="#"><p >Quên mật khẩu ?</p></a>
+          <a className={styles[""]} href="/"><p >{t('forgotPassword')}</p></a>
           <button className={styles["submit_button"]} onClick={onLogin}>{t('signin')}</button>
           
         </form>
@@ -23,6 +23,9 @@ const Login = () => {
       </div>
       <div className={styles["login_right"]}>
         <img className={styles["login_right_image"]} src="./images_about/test2_listen 5.png" alt="images" />
+        
+
+
       </div>
 
 

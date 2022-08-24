@@ -25,7 +25,8 @@ const Header = () => {
   return (
     <div className={styles["header"]}>
       <div className={styles["header__left"]}>
-      <Link to="/" >{t('home')}</Link>
+      <Link to="/" > {t('home')}</Link>
+      
       </div>
       <div className={styles["header__center"]}></div>
       <div className={styles["header__right"]}>
