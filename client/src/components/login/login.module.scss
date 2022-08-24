@@ -7,7 +7,7 @@
     }
     padding: 50px;
     gap: 100px;// để cách các ptu
-    background-color: beige;
+    background-color: #B3D1E2;
 }
 
 .login_left {
@@ -38,8 +38,7 @@
 
 }
 
-.login_password,
-.Login_acountName {
+.login_password,.Login_acountName {
     padding: 8.9px 11px;
     font-size: 16px;
     background-color: #fff;
@@ -48,6 +47,9 @@
     width: 100%;
     margin-bottom: 15px;
 
+}
+.login_forgotPassword{
+    padding:  11px ;
 }
 
 .submit_button {
