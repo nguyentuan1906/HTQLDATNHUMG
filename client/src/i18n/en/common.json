@@ -27,5 +27,10 @@
       "post5": "Member",
       "info5": "Software Technology Engineers"
 
-    }
+    },
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "acountName": "Acount Name",
+    "password": "Password"
+
   }

@@ -47,7 +47,6 @@ const About = () => {
                         <div className={styles["images_Character"]}>
                             <img src={a.images} className={styles["about_images"]} alt="" />
                         </div>
-
                         <div className={styles["about_info_Character"]}>
                             <h2 className={styles["about_nameCharacter"]}>{a.name}</h2>
                             <p>{a.post}</p>
