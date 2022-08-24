@@ -33,5 +33,13 @@
     "projectList": "Project List",
     "projectDefenseSchedule": "Project Defense Schedule",
     "projectPoin": "Project Poin",
-    "studentList": "Student List"
+    "studentList": "Student List",
+    "teacherList": "Teacher List",
+    "setUpACouncil": "Set Up A Council",
+    "makeNews": "Make News",
+    "subjectList": "Subject List",
+    "studentStatistics": "Student Statistics",
+    "teacherStatistics": "Teacher Statistics"
+
+
   }

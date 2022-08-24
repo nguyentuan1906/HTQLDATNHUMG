@@ -6,9 +6,10 @@ import {
 } from "react-router-dom";
 
 const Menu = () => {
-    const student = true;
+    const student = false;
     const teacher = false;
     const admin = false;
+    const subject = true;
     const { t } = useTranslation();
     return (
         <div className={styles['menu']}>
@@ -32,13 +33,27 @@ const Menu = () => {
                 </div>
             </div>}
 
-            {admin && <div className={styles['menu_style']}>
-                <div className={styles['menu_name']}> {t('Feature')} </div>
+            {/* subject - Bộ môn */}
+            {subject && <div className={styles['menu_style']}>
+                <div className={styles['menu_name']}> {t('feature')} </div>
                 <div className={styles['list_menu']}>
-                    <Link to="/" >{t('Quản lý đồ án cá nhân')}</Link>
-                    <Link to="/" >{t('Quản lý sinh viên')}</Link>
-                    <Link to="/" >{t('Lịch bảo vệ đồ án')}</Link>
-                    <Link to="/" >{t('Điểm bảo vệ đồ án')}</Link>
+                    <Link to="/" >{t('teacherList')}</Link>
+                    <Link to="/" >{t('studentList')}</Link>
+                    <Link to="/" >{t('setUpACouncil')}</Link>
+                    <Link to='/'> {t('makeNews')}</Link>
+                    <Link to="/" >{t('projectDefenseSchedule')}</Link>
+                    <Link to="/" >{t('projectPoin')}</Link>
+                </div>
+            </div>}
+
+            {/* admin-Khoa */}
+            {admin && <div className={styles['menu_style']}>
+                <div className={styles['menu_name']}> {t('feature')} </div>
+                <div className={styles['list_menu']}>
+                    <Link to="/" >{t('subjectList')}</Link>
+                    <Link to="/" >{t('studentStatistics')}</Link>
+                    <Link to="/" >{t('teacherStatistics')}</Link>
+                    <Link to="/" >{t('setUpACouncil')}</Link>
                 </div>
             </div>}
         </div>

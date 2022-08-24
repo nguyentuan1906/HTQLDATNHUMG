@@ -2,27 +2,33 @@
     display: flex;
     justify-content: end;
 }
+
 .menu_style{
     display: inline-block;
-    font-size: 30px;
-    background-color: #3EAAE8;
-    border: 2px double #3EAAE8;
-    width: 20%;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px 5px 0px 0px;
+    width: 15%;
 
 }
 
 .menu_name{
     padding: 10px;
+    background-color: #3EAAE8;
+    border-radius: 5px 5px 0px 0px;
 }
 
 .list_menu{
     display: flex;
     flex-flow: column wrap;
-    font-size: 20px;
-    background-color: #C3E4F6;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #e9f7ff;
+    border-radius: 0px 0px 5px 5px;
 }
 
 a{
     display: inline-block;
-    padding: 15px 30px;
+    margin: 10px 20px;
+    border-bottom: 3px solid #dbdbdb;
 }

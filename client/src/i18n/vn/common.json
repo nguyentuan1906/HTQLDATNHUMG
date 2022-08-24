@@ -10,7 +10,13 @@
     "feature": "Tính Năng",
     "projectRegistration": "Đăng ký dồ án",
     "projectList": "Danh sách đồ án",
-    "projectDefenseSchedule": "Lịch bảo vệ dô án",
+    "projectDefenseSchedule": "Lịch bảo vệ đồ án",
     "projectPoin": "Điểm đồ án",
-    "studentList": "Danh sách sinh viên"
+    "studentList": "Danh sách sinh viên",
+    "teacherList": "Danh sách giảng viên",
+    "setUpACouncil": "Thành lập hội đồng",
+    "makeNews": "Tạo bài viết",
+    "subjectList": "Danh sách bộ môn",
+    "studentStatistics": "Thống kê sinh viên",
+    "teacherStatistics": "Thống kê giảng viên"
 }
