@@ -16,19 +16,32 @@
     flex:1;
 }
 
+.header__left .home{
+    border: none;
+    font-size: 17px;
+    margin-left: 60px;
+}
+
 .header__center{
     flex:2;
 }
 .header__right{
-    flex:2;
+    flex:1;
     display: flex;
 }
 select{
     padding: 5px 5px;
     padding-right: 30px;
+    margin: 0px 5px;
     background-color: #ad9898 ;
     color: rgb(240, 234, 234) ;
     border: 2px solid #ccc;
     outline: 2px solid #ccc;
 }
 
+.header__right button{
+    background-color: #E9F7FF;
+    border: none;
+    color: #3EAAE8;   
+    border-radius: 5px;
+}
