@@ -38,12 +38,18 @@
       "name5": "Truong Thi Hoai Thuong",
       "post5": "Member",
       "info5": "Software Technology Engineers"
-    },
+          },
 
     "feature": "Feature",
     "projectRegistration": "Project Registration",
     "projectList": "Project List",
     "projectDefenseSchedule": "Project Defense Schedule",
     "projectPoin": "Project Poin",
-    "studentList": "Student List"
-  }
+    "studentList": "Student List",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "acountName": "Acount Name",
+    "password": "Password",
+    "forgotPassword": "Forgot Password ?"
+    
+  },
