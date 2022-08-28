@@ -6,14 +6,14 @@ import {
 } from "react-router-dom";
 
 const Menu = () => {
-    const student = true;
+    const student = false;
     const teacher = false;
     const admin = false;
     const { t } = useTranslation();
     return (
         <div className={styles['menu']}>
             {student && <div className={styles['menu_style']}>
-                <div className={styles['menu_name']}> {t('Feature')} </div> 
+                <div className={styles['menu_name']}> {t('Feature')} </div>
                 <div className={styles['list_menu']}>
                     <Link to="/" >{t('projectRegistration')}</Link>
                     <Link to="/" >{t('projectList')}</Link>
