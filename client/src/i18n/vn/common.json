@@ -17,4 +17,11 @@
     "c":"Giảng viên",
     "d":"Sinh viên",
     "new_header":"Tin tức"
-  }
+    "team":"Nhóm",
+    "feature": "Tính Năng",
+    "projectRegistration": "Đăng ký dồ án",
+    "projectList": "Danh sách đồ án",
+    "projectDefenseSchedule": "Lịch bảo vệ dô án",
+    "projectPoin": "Điểm đồ án",
+    "studentList": "Danh sách sinh viên"
+}
