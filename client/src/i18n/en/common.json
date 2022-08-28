@@ -15,7 +15,8 @@
     "a":"Department",
     "b":"Subject",
     "c":"Lecturers",
-    "d":"Student"
+    "d":"Student",
+    "new_header":"News"
     
     
   }
