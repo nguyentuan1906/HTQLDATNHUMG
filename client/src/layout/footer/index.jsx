@@ -25,12 +25,7 @@ const Footer = () => {
         <div className={styles["h1_footer"]}>{t("h1_footer")}</div>
         <div className={styles["h2_footer"]}>{t("h2_footer")}</div>
         <div className={styles["h3_map"]}>
-          <iframe
-            src="https://www.google.com/maps/place/Hanoi+University+of+Mining+and+Geology/@21.072164,105.774014,14z/data=!4m5!3m4!1s0x3134552defbed8e9:0x1584f79c805eb017!8m2!3d21.0720703!4d105.773929?hl=en-US"
-            title="W3Schools Free Online Web Tutorials"
-          >
-            <img src="./footer/img/map1.png" alt="GG Map" />
-          </iframe>
+        <img src="./map1.png" alt="" />
         </div>
       </div>
 
