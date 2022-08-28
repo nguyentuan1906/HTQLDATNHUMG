@@ -20,27 +20,27 @@ const Footer = () => {
   const listPage = [
     {
       id: 1,
-      name: "Home",
+      name: t("e"),
       link: "/",
     },
     {
       id: 2,
-      name: "Khoa",
+      name: t("a"),
       link: "/",
     },
     {
       id: 3,
-      name: "Bộ môn",
+      name: t("b"),
       link: "/",
     },
     {
       id: 4,
-      name: "Giảng viên",
+      name:t("c") ,
       link: "/",
     },
     {
       id: 5,
-      name: "Sinh viên",
+      name: t("d"),
       link: "/",
     },
   ];
@@ -51,7 +51,7 @@ const Footer = () => {
           <div className={styles["h1_footer"]}>{t("h1_footer")}</div>
           <div className={styles["h2_footer"]}>{t("h2_footer")}</div>
           <div className={styles["h3_map"]}>
-            <img src="./map1.png" alt="" />
+            <img src="./map1.png" alt="Đại học mỏ địa - chất" />
           </div>
         </div>
 
