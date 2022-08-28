@@ -1,39 +1,31 @@
 {
     "home": "Trang chủ",
     "login": "Đăng nhập",
-    "english":"Tiếng anh",
-    "vietnamese":"Tiếng việt",
-    "contact":"Liên hệ",
-    "about":"Giới thiệu",
-    "team":"Nhóm",
-    "teams":{
-      "name1": "Lê Minh Phương",
-      "post1": "Trưởng nhóm",
-      "info1": "Chuyên ngành Mạng máy tính",
-
-      "name2": "Anh Tuấn",
-      "post2": "Thành viên",
-      "info2": "Chuyên ngành công nghệ phần mềm",
-
-      "name3": "Thùy Trang",
-      "post3": "Thành viên",
-      "info3": "Chuyên ngành Mạng máy tính",
-
-      "name4": "Đào Thùy Dương",
-      "post4": "Thành viên",
-      "info4": "Chuyên ngành công nghệ phần mềm",
-
-      "name5": "Trương Thị Hoài Thương",
-      "post5": "Thành viên",
-      "info5": "Chuyên ngành công nghệ phần mềm"
-
+    "english": "Tiếng anh",
+    "vietnamese": "Tiếng việt",
+    "contact": "Liên hệ",
+    "about": "Giới thiệu",
+    "team": "Nhóm",
+    "teams": {
+        "name1": "Lê Minh Phương",
+        "post1": "Trưởng nhóm",
+        "info1": "Chuyên ngành Mạng máy tính",
+        "name2": "Anh Tuấn",
+        "post2": "Thành viên",
+        "info2": "Chuyên ngành công nghệ phần mềm",
+        "name3": "Thùy Trang",
+        "post3": "Thành viên",
+        "info3": "Chuyên ngành Mạng máy tính",
+        "name4": "Đào Thùy Dương",
+        "post4": "Thành viên",
+        "info4": "Chuyên ngành công nghệ phần mềm",
+        "name5": "Trương Thị Hoài Thương",
+        "post5": "Thành viên",
+        "info5": "Chuyên ngành công nghệ phần mềm"
     },
     "signin": "Đăng nhập",
     "signup": "Đăng ký",
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
     "forgotPassword": "Quên mật khẩu ?"
-
-
-
-  }
+}
