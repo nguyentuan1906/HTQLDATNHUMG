@@ -9,7 +9,7 @@ const Menu = () => {
     const student = false;
     const teacher = false;
     const admin = false;
-    const subject = true;
+    const subject = false;
     const { t } = useTranslation();
     return (
         <div className={styles['menu']}>
