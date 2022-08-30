@@ -1,0 +1,38 @@
+.manual{
+    display: inline-block;
+    width: 83%;
+    margin: 5px;
+    background-color: #3EAAE8;
+    border-radius: 5px 5px 0px 0px;
+    font-size: 20px;
+}
+
+.manual_name{
+    display: block;
+    color: white;
+    padding: 5px 20px;
+    font-weight: 700;
+
+}
+
+.manual_list{
+    display: flex;
+    justify-content: space-between;
+    background-color:  #e9f7ff;
+}
+
+a{  
+    padding: 0px;
+    font-size: 17px;
+}
+
+.manual_time{
+    display: flex;
+    align-items: center;
+}
+
+p{
+    font-size: 15px;
+    color: #a8a8a8;
+    padding:0 10px ;
+}

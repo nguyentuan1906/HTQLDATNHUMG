@@ -1,4 +1,5 @@
 import React from 'react'
+import Manual from '../components/manual/index.jsx';
 
 const HomePage = () => {
   return (
@@ -7,4 +8,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default HomePage;

@@ -8,6 +8,7 @@ import Login from "./page/Login"
 import Contact from "./page/Contact"
 import About from "./page/About"
 import Layout from "./layout"
+
 function App() {
   return (
     <Routes>
