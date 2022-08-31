@@ -4,5 +4,9 @@
     "english":"English",
     "vietnamese":"Vietnamese",
     "contact":"Contact Us",
-    "about":"About"
+    "about":"About",
+    "name": "Name",
+    "phone": " Phone",
+    "email": "Email"
+
   }
