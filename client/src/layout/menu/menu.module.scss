@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+}
+
+.menu {
+    flex: 1;
+}
+
+.menu_style {
+    display: inline-block;
+    font-size: 30px;
+    background-color: #3EAAE8;
+    border: 2px double #3EAAE8;
+}
+
+.menu_name {
+    padding: 10px;
+}
+
+.list_menu {
+    display: flex;
+    flex-flow: column wrap;
+    font-size: 20px;
+    background-color: #C3E4F6;
+}
+
+a {
+    display: inline-block;
+    padding: 15px 30px;
+}

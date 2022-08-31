@@ -1,4 +1,5 @@
 {
+
     "home": "Home",
     "login": "Login",
     "english":"English",
@@ -17,7 +18,53 @@
     "c":"Lecturers",
     "d":"Student",
     "new_header":"News",
-    "notice_header" :"Notice"
-    
-  }
-  
+    "notice_header" :"Notice,  
+  "home": "Home",
+  "login": "Login",
+  "english": "English",
+  "vietnamese": "Vietnamese",
+  "contact": "Contact Us",
+  "about": "About",
+  "h1_footer": "MAP INSTRUCTIONS",
+  "h2_footer": "HANOI UNIVERSITY OF MINING AND GEOLOGY",
+  "f1_footer_mxh": "Social Network",
+  "k1_footer": "PAGE DIAGRAM",
+  "f1_end": "Copyright © 2022 HaNoi University Of Mining And Geology",
+  "f2_end": "Designed by the team ITA LAb",
+  "e": "Home",
+  "a": "Department",
+  "b": "Subject",
+  "c": "Lecturers",
+  "d": "Student",
+  "new_header": "News",
+  "team": "Team",
+  "teams": {
+    "name1": "Le Minh Phuong",
+    "post1": "Leader",
+    "info1": "Computer Network Engineers",
+    "name2": "Anh Tuan",
+    "post2": "Member",
+    "info2": "Software Technology Engineers",
+    "name3": "Thuy Trang",
+    "post3": "Member",
+    "info3": "Computer Network Engineers",
+    "name4": "Dao Thuy Duong",
+    "post4": "Member",
+    "info4": "Software Technology Engineers",
+    "name5": "Truong Thi Hoai Thuong",
+    "post5": "Member",
+    "info5": "Software Technology Engineers"
+  },
+  "feature": "Feature",
+  "projectRegistration": "Project Registration",
+  "projectList": "Project List",
+  "projectDefenseSchedule": "Project Defense Schedule",
+  "projectPoin": "Project Poin",
+  "studentList": "Student List",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "acountName": "Acount Name",
+  "password": "Password",
+  "forgotPassword": "Forgot Password ?"
+}
+

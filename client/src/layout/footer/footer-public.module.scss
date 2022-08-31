@@ -4,8 +4,6 @@ body{
 }
 .footer{
    display: flex;
-   position:absolute;
-   bottom:45px;
    width:100%;
    background-color: #64b7e7;
    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%); 
@@ -113,8 +111,6 @@ body{
 .footer_end{
     background-color: #2fa4e7;
     text-align: center;
-    position:absolute;
-    bottom:0;
     width:100%;
     box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
     font-size: 18px;
