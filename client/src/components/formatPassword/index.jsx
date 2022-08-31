@@ -3,7 +3,7 @@ import React from 'react'
 import styles from "./formatPassword.module.scss"
 const FormatPassword = () => {
     return (
-        <div>
+        <div className={styles['formatP_content']} >
             <div className={styles['left']}>
                 <h1>Please enter your email to reset your password</h1>
                 <form className={styles['input']} action="">
