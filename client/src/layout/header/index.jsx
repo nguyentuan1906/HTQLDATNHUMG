@@ -13,29 +13,29 @@ const Header = () => {
     i18n.changeLanguage(event.target.value);
   };
   const navigate = useNavigate();
-  const onLogin=()=>{
+  const onLogin = () => {
     navigate("/login")
   }
-  const onContact=()=>{
+  const onContact = () => {
     navigate("/contact")
   }
-  const onAbout=()=>{
+  const onAbout = () => {
     navigate("/about")
   }
   return (
     <div className={styles["header"]}>
       <div className={styles["header__left"]}>
-      <Link to="/" >{t('home')}</Link>
+        <Link to="/" >{t('home')}</Link>
       </div>
       <div className={styles["header__center"]}></div>
       <div className={styles["header__right"]}>
-        <Button text={t('login')} className={"button button-big"} onClick={onLogin}/>
-        <Button text={t('contact')} className={"button button-big"} onClick={onContact}/>
-        <Button text={t('about')} className={"button button-big"} onClick={onAbout}/>
-      <select name="language" onChange={onChange}>
-        <option value="en">{t('english')}</option>
-        <option value="vn">{t("vietnamese")}</option>
-      </select>
+        <Button text={t('login')} className={"button button-big"} onClick={onLogin} />
+        <Button text={t('contact')} className={"button button-big"} onClick={onContact} />
+        <Button text={t('about')} className={"button button-big"} onClick={onAbout} />
+        <select name="language" onChange={onChange}>
+          <option value="en">{t('english')}</option>
+          <option value="vn">{t("vietnamese")}</option>
+        </select>
       </div>
     </div>
   )

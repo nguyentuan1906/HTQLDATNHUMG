@@ -8,6 +8,8 @@ import Login from "./page/Login"
 import Contact from "./page/Contact"
 import About from "./page/About"
 import Layout from "./layout"
+import FormatPassword from "./page/FormatPassword"
+
 function App() {
   return (
     <Routes>
@@ -16,6 +18,7 @@ function App() {
         <Route path='login' element={<Login />} />
         <Route path='about' element={<About />} />
         <Route path='contact' element={<Contact />} />
+        <Route path='format-password' element={<FormatPassword/>} />
       </Route>
     </Routes>
   );

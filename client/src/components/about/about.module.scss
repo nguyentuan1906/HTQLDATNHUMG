@@ -1,0 +1,33 @@
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.images_Character {
+    width: 15%;
+    @media (max-width: 800px) {
+        width: 150px;
+        }
+}
+
+.about_images {
+    width: 100px;
+    height: 100px;
+}
+
+.about_Character {
+    display: flex;
+    padding: 20px;
+    border: 1px solid #cccc;
+}
+
+.about_info_Character {
+    margin-left: 10px;
+}
+
+.about_teams {
+    width: 80%;
+
+}
