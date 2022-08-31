@@ -1,5 +1,4 @@
 {
-<<<<<<<<< Temporary merge branch 1
   "home": "Home",
   "login": "Login",
   "english": "English",
@@ -47,18 +46,4 @@
   "acountName": "Acount Name",
   "password": "Password",
   "forgotPassword": "Forgot Password ?"
-<<<<<<< HEAD
 }
-=========
-    "home": "Home",
-    "login": "Login",
-    "english":"English",
-    "vietnamese":"Vietnamese",
-    "contact":"Contact Us",
-    "about":"About",
-    "name": "Name",
-    "phone": " Phone",
-    "email": "Email"
-
-  }
->>>>>>>>> Temporary merge branch 2
