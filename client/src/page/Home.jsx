@@ -1,10 +1,9 @@
 import React from 'react'
-import Manual from '../components/manual/index.jsx';
+import Manual from '../components/manual'
 
 const HomePage = () => {
   return (
-    <>
-    </>
+    <Manual/>
   )
 }
 

@@ -15,24 +15,33 @@
 
 }
 
-.manual_list{
+.manual_map{
+    width: 100%;
     display: flex;
-    justify-content: space-between;
-    background-color:  #e9f7ff;
+    flex-direction: column;
+    background-color: #e9f7ff;
 }
 
-a{  
-    padding: 0px;
+.manual_list{
+    width: 100%;
+    display: flex;
+
+}
+
+.manual_content{
+    width: 90%;
+    display: flex;
+    padding: 5px;
+    padding-left: 10px; 
     font-size: 17px;
+    font-weight: 500;
 }
 
 .manual_time{
+    width: 10%;
     display: flex;
-    align-items: center;
-}
-
-p{
+    justify-content: end;
+    padding: 5px;
+    color: #9c9c9c;
     font-size: 15px;
-    color: #a8a8a8;
-    padding:0 10px ;
 }
