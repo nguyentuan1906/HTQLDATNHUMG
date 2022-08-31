@@ -6,6 +6,7 @@ const News = () => {
   return (
     <div>
       <div className={styles["new_header"]}>{t("new_header")}</div>
+      <div></div>
     </div>
   );
 };

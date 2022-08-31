@@ -16,8 +16,8 @@
     "b":"Subject",
     "c":"Lecturers",
     "d":"Student",
-    "new_header":"News"
-    
+    "new_header":"News",
+    "notice_header" :"Notice"
     
   }
   
