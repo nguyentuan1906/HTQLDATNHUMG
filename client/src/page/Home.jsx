@@ -1,10 +1,10 @@
 import React from "react";
-import News from '../components/news/index'
+import Category from '../components/category/index'
 
 const HomePage = () => {
   return (
     <>
-      <News />
+      <Category />
     </>
   );
 };
