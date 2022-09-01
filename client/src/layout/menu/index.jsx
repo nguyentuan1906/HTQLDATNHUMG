@@ -1,4 +1,4 @@
-import React, { useTransition } from "react";
+import React from 'react';
 import styles from "./menu.module.scss";
 import { useTranslation } from 'react-i18next';
 import {
@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 const Menu = () => {
-    const student = false;
+    const student = true;
     const teacher = false;
     const object = false;
     const admin = false;

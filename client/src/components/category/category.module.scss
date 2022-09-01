@@ -23,6 +23,7 @@
 }
 
 .category_title{
+    width: 95%;
     padding: 5px;
     padding-left: 30px;
     font-size: 17px;
@@ -37,3 +38,9 @@
     padding-right: 10px;
 }
 
+.category_content:hover{
+    background-color: #98ceeb;
+}
+.category_title:hover{
+    color: black;
+}

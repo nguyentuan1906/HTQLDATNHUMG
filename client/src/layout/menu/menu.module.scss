@@ -23,4 +23,10 @@
 .feature_name{
     color: rgb(59, 59, 59);
     padding: 10px 20px 10px 35px;
+
+}
+
+.feature_name:hover{
+    color: black;
+    background-color: #98ceeb;
 }
