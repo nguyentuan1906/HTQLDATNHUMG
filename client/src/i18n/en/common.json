@@ -45,5 +45,10 @@
   "signup": "Sign Up",
   "acountName": "Acount Name",
   "password": "Password",
-  "forgotPassword": "Forgot Password ?"
+  "forgotPassword": "Forgot Password ?",
+  "title_fogetPassWord": "Please enter your email to reset your password",
+  "inputEmail":"Please enter your email",
+  "botton_send": "SEND"
+  
+
 }
