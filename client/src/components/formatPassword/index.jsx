@@ -15,7 +15,6 @@ const FormatPassword = () => {
             </div>
             <div className={styles['right']}>
                 <img className={styles['right_images']} src="./images_about/test2_listen 5.png" alt="images" />
-
             </div>
         </div>
 
