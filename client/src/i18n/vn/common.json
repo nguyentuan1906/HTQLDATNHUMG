@@ -7,6 +7,8 @@
     "about":"Giới thiệu",
     "name": " Tên",
     "phone": " Số Điện Thoại",
+    "address":"Địa chỉ",
+    "import content": "Nhập Nội Dung",
     "email": "Email",
     "team": "Nhóm",
     "teams": {

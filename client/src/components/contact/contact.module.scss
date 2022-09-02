@@ -3,9 +3,9 @@
   color: black;
   padding: auto;
 }
-.main {
- 
-}
+
+.main {}
+
 .contact {
   display: flex;
   width: 1000px;
@@ -19,35 +19,98 @@
   // background-color: rgb(224, 222, 219);
 
 }
-.contact__left{
-    flex: 1;
-    justify-content: space-around;
-    background-color: whitesmoke;
-    
-}
 
-
-.contact__right{
-    flex: 1;
-    padding : 5px;
-    padding-left: 30px;
-    padding-top: 2em;
-    background-color: aqua;
+.contact__left {
+  flex: 1;
+  justify-content: space-around;
+  background-color: whitesmoke;
 
 }
-.font2{
-  color:aquamarine;
+
+
+.contact__right {
+  flex: 1;
+  padding: 5px;
+  padding-left: 30px;
+  padding-top: 2em;
+  background-color: whitesmoke;
+
+
+
+}
+
+.font2 {
+  color: aquamarine;
   text-align: center;
   margin-bottom: 20px;
   margin-top: 10px;
 
 }
-.font1{
-    font-size: medium;
-    // padding : 5px;
-    padding-left: 10px;
-    padding-right: 5px;
-    // padding-top: 10px;
-    padding-bottom: 5xp;
+
+.font1 {
+  font-size: medium;
+  margin-top: 50px;
+  padding-left: 10px;
+  padding-right: 5px;
+  font-size: large;
+  padding-bottom: 5xp;
 }
 
+.font1_2 {
+  font-size: medium;
+  margin-top: 10px;
+
+  padding-left: 10px;
+  padding-right: 5px;
+  font-size: large;
+  padding-bottom: 5xp;
+}
+
+.font3_2 {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: larger;
+  margin-top: 30px;
+}
+
+.font3 {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: larger;
+
+}
+
+.textarea {
+  width: 100%
+}
+
+.box {
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+.Phone,
+.Name,
+.Email,
+.Address {
+  padding: 8.9px 11px;
+  font-size: 16px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+
+}
+
+.button2 {
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 11px;
+  padding-top: 20px;
+  background-color: wheat;
+
+}
