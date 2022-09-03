@@ -17,24 +17,6 @@
   "c": "Lecturers",
   "d": "Student",
   "new_header": "News",
-  "notice_header":"Notice,  "home": "Home",
-  "login": "Login",
-  "english": "English",
-  "vietnamese": "Vietnamese",
-  "contact": "Contact Us",
-  "about": "About",
-  "h1_footer": "MAP INSTRUCTIONS",
-  "h2_footer": "HANOI UNIVERSITY OF MINING AND GEOLOGY",
-  "f1_footer_mxh": "Social Network",
-  "k1_footer": "PAGE DIAGRAM",
-  "f1_end": "Copyright © 2022 HaNoi University Of Mining And Geology",
-  "f2_end": "Designed by the team ITA LAb",
-  "e": "Home",
-  "a": "Department",
-  "b": "Subject",
-  "c": "Lecturers",
-  "d": "Student",
-  "new_header": "News",
   "team": "Team",
   "teams": {
     "name1": "Le Minh Phuong",
@@ -57,8 +39,6 @@
   "signup": "Sign Up",
   "acountName": "Acount Name",
   "password": "Password",
-<<<<<<< HEAD
-  "forgotPassword": "Forgot Password ?",
   "address": "Address",
   "name": " Name",
   "phone": "Phone",
@@ -86,10 +66,6 @@
   "objectManagement": "Object Management",
   "News": "News",
   "Notice": "Notice",
-  "UserManual": "User Manual"
-}
-=======
+  "UserManual": "User Manual",
   "forgotPassword": "Forgot Password ?"
 }
-
->>>>>>> 385c445caa30098fc6ce1fdb0dad8ab503798e2e

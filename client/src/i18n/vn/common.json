@@ -18,10 +18,6 @@
     "d": "Sinh viên",
     "new_header": "Tin tức",
     "notice_header": "Thông báo",
-    "english": "Tiếng anh",
-    "vietnamese": "Tiếng việt",
-    "contact": "Liên hệ",
-    "about": "Giới thiệu",
     "name": " Tên",
     "phone": " Số Điện Thoại",
     "address": "Địa chỉ",
@@ -49,8 +45,6 @@
     "signup": "Đăng ký",
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
-<<<<<<< HEAD
-    "forgotPassword": "Quên mật khẩu ?",
     "submit": "Gửi",
     "title_fogetPassWord": "Hãy nhập email của bạn để thay đổi mật khẩu",
     "inputEmail": "Nhập email của bạn",
@@ -73,10 +67,7 @@
     "objectManagement": "Quản lý bộ môn",
     "News": "Tin tức",
     "Notice": "Thông báo",
-    "UserManual": "Hướng dẫn"
-}
-=======
+    "UserManual": "Hướng dẫn",
     "forgotPassword": "Quên mật khẩu ?"
 }
 
->>>>>>> 385c445caa30098fc6ce1fdb0dad8ab503798e2e
