@@ -30,7 +30,9 @@
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
     "forgotPassword": "Quên mật khẩu ?",
-
+    "title_fogetPassWord": "Hãy nhập email của bạn để thay đổi mật khẩu",
+    "inputEmail":"Nhập email của bạn",
+    "botton_send": "GỬI"
     "feature": "Tính năng",
     "myProject": "Đồ án",
     "projectProgress": "Tiến độ đồ ns",
@@ -47,7 +49,6 @@
     "sampleProjectManager": "Quản lý đồ án mẫu",
     "statistic": "Thống kê",
     "objectManagement": "Quản lý bộ môn",
-
     "News": "Tin tức",
     "Notice": "Thông báo",
     "UserManual": "Hướng dẫn"

@@ -41,7 +41,9 @@
   "acountName": "Acount Name",
   "password": "Password",
   "forgotPassword": "Forgot Password ?",
-
+  "title_fogetPassWord": "Please enter your email to reset your password",
+  "inputEmail":"Please enter your email",
+  "botton_send": "SEND"
   "feature": "Feature",
   "myProject": "My Project",
   "projectProgress": "Project Progress",
@@ -58,7 +60,6 @@
   "sampleProjectManager": "Sample Project Manager",
   "statistic": "Statistic",
   "objectManagement": "Object Management",
-
   "News": "News",
   "Notice": "Notice",
   "UserManual": "User Manual"

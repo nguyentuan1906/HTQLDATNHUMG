@@ -8,7 +8,7 @@ const Login = () => {
   const { t } = useTranslation();
   const navigate = useNavigate();
   const onLogin = () => {
-     toast("Wow so easy!");
+     toast("Đăng nhập thành công! ");
      navigate("/");
   }
   return (
