@@ -1,17 +1,16 @@
 {
     "home": "Trang chủ",
     "login": "Đăng nhập",
-    "english":"Tiếng anh",
-    "vietnamese":"Tiếng việt",
-    "contact":"Liên hệ",
-    "about":"Giới thiệu",
+    "english": "Tiếng anh",
+    "vietnamese": "Tiếng việt",
+    "contact": "Liên hệ",
+    "about": "Giới thiệu",
     "name": " Tên",
     "phone": " Số Điện Thoại",
-    "address":"Địa chỉ",
+    "address": "Địa chỉ",
     "import content": "Nhập Nội Dung",
     "email": "Email",
     "team": "Nhóm",
-
     "teams": {
         "name1": "Lê Minh Phương",
         "post1": "Trưởng nhóm",
@@ -29,16 +28,15 @@
         "post5": "Thành viên",
         "info5": "Chuyên ngành công nghệ phần mềm"
     },
-
     "signin": "Đăng nhập",
     "signup": "Đăng ký",
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
     "forgotPassword": "Quên mật khẩu ?",
-    "submit":"Gửi"
+    "submit": "Gửi",
     "title_fogetPassWord": "Hãy nhập email của bạn để thay đổi mật khẩu",
-    "inputEmail":"Nhập email của bạn",
-    "botton_send": "GỬI"
+    "inputEmail": "Nhập email của bạn",
+    "botton_send": "GỬI",
     "feature": "Tính năng",
     "myProject": "Đồ án",
     "projectProgress": "Tiến độ đồ ns",
