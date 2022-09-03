@@ -35,12 +35,7 @@
     "post5": "Member",
     "info5": "Software Technology Engineers"
   },
-  "feature": "Feature",
-  "projectRegistration": "Project Registration",
-  "projectList": "Project List",
-  "projectDefenseSchedule": "Project Defense Schedule",
-  "projectPoin": "Project Poin",
-  "studentList": "Student List",
+
   "signin": "Sign In",
   "signup": "Sign Up",
   "acountName": "Acount Name",
@@ -49,6 +44,23 @@
   "title_fogetPassWord": "Please enter your email to reset your password",
   "inputEmail":"Please enter your email",
   "botton_send": "SEND"
-  
-
+  "feature": "Feature",
+  "myProject": "My Project",
+  "projectProgress": "Project Progress",
+  "projectDefenseSchedule": "Project Defense Schedule",
+  "projectPoin": "Project Poin",
+  "sampleProject": "Sample Project",
+  "projectRegistration": "Project Registration",
+  "studentList": "Student List",
+  "studentManagement": "Student Management",
+  "teacherManagement": "Teacher Management",
+  "councilManager": "Council Manager",
+  "projectPoinManager": "Project Poin Manager",
+  "projectDefenseScheduleManager": "Project Defense Schedule Manager",
+  "sampleProjectManager": "Sample Project Manager",
+  "statistic": "Statistic",
+  "objectManagement": "Object Management",
+  "News": "News",
+  "Notice": "Notice",
+  "UserManual": "User Manual"
 }
