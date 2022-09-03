@@ -1,10 +1,15 @@
 {
     "home": "Trang chủ",
     "login": "Đăng nhập",
-    "english": "Tiếng anh",
-    "vietnamese": "Tiếng việt",
-    "contact": "Liên hệ",
-    "about": "Giới thiệu",
+    "english":"Tiếng anh",
+    "vietnamese":"Tiếng việt",
+    "contact":"Liên hệ",
+    "about":"Giới thiệu",
+    "name": " Tên",
+    "phone": " Số Điện Thoại",
+    "address":"Địa chỉ",
+    "import content": "Nhập Nội Dung",
+    "email": "Email",
     "team": "Nhóm",
 
     "teams": {
@@ -30,6 +35,7 @@
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
     "forgotPassword": "Quên mật khẩu ?",
+    "submit":"Gửi"
     "title_fogetPassWord": "Hãy nhập email của bạn để thay đổi mật khẩu",
     "inputEmail":"Nhập email của bạn",
     "botton_send": "GỬI"

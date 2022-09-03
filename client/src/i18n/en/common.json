@@ -41,6 +41,12 @@
   "acountName": "Acount Name",
   "password": "Password",
   "forgotPassword": "Forgot Password ?",
+  "address":"Address",
+  "name":" Name",
+  "phone": "Phone",
+  "email":"Email",
+  "import content":"Import content",
+  "submit":"Submit",
   "title_fogetPassWord": "Please enter your email to reset your password",
   "inputEmail":"Please enter your email",
   "botton_send": "SEND"
