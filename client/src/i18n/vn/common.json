@@ -5,6 +5,23 @@
     "vietnamese": "Tiếng việt",
     "contact": "Liên hệ",
     "about": "Giới thiệu",
+    "h1_footer": "BẢN ĐỒ CHỈ DẪN",
+    "h2_footer": "ĐẠI HỌC MỎ - ĐỊA CHẤT",
+    "f1_footer_mxh": "Mạng xã hội",
+    "k1_footer": "SƠ ĐỒ TRANG",
+    "f1_end": "Bản quyền © 2022 Trường Đại học Mỏ - Địa chất",
+    "f2_end": "Được thiết kế bởi nhóm ITA Lab",
+    "e": "Trang chủ",
+    "a": "Khoa",
+    "b": "Bộ môn",
+    "c": "Giảng viên",
+    "d": "Sinh viên",
+    "new_header": "Tin tức",
+    "notice_header": "Thông báo",
+    "english": "Tiếng anh",
+    "vietnamese": "Tiếng việt",
+    "contact": "Liên hệ",
+    "about": "Giới thiệu",
     "name": " Tên",
     "phone": " Số Điện Thoại",
     "address": "Địa chỉ",
@@ -32,6 +49,7 @@
     "signup": "Đăng ký",
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
+<<<<<<< HEAD
     "forgotPassword": "Quên mật khẩu ?",
     "submit": "Gửi",
     "title_fogetPassWord": "Hãy nhập email của bạn để thay đổi mật khẩu",
@@ -57,3 +75,8 @@
     "Notice": "Thông báo",
     "UserManual": "Hướng dẫn"
 }
+=======
+    "forgotPassword": "Quên mật khẩu ?"
+}
+
+>>>>>>> 385c445caa30098fc6ce1fdb0dad8ab503798e2e
