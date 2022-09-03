@@ -9,6 +9,7 @@ import Contact from "./page/Contact"
 import About from "./page/About"
 import Layout from "./layout"
 import FormatPassword from "./page/FormatPassword"
+import Info from "./page/Info"
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='about' element={<About />} />
         <Route path='contact' element={<Contact />} />
         <Route path='format-password' element={<FormatPassword/>} />
+        <Route path='tt' element={<Info/>} />
       </Route>
     </Routes>
   );

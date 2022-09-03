@@ -32,5 +32,6 @@
     "signup": "Đăng ký",
     "acountName": "Tên tài khoản",
     "password": "Mật khẩu",
-    "forgotPassword": "Quên mật khẩu ?"
+    "forgotPassword": "Quên mật khẩu ?",
+    "submit":"Gửi"
 }

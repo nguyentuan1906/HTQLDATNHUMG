@@ -2,7 +2,10 @@ import React from "react";
 import styles from "./contact.module.scss";
 import { useTranslation } from "react-i18next";
 
-const tb =() => {alert(" cám on đã liên hệ với chung tôi")};
+const tb = (e) => {
+  e.preventDefault()
+  alert(" cám on đã liên hệ với chung tôi");
+};
 const Contact = () => {
   const { t } = useTranslation();
   return (
@@ -31,17 +34,17 @@ const Contact = () => {
             />
             <input
               className={styles["Phone"]}
-              type="password"
+              type="text"
               placeholder={t("phone")}
             />
             <input
               className={styles["Email"]}
-              type="password"
+              type="text"
               placeholder={t("email")}
             />
             <input
               className={styles["Address"]}
-              type="password"
+              type="text"
               placeholder={t("address")}
             />
             <textarea
@@ -51,7 +54,9 @@ const Contact = () => {
               rows="10"
               col="40"
             />
-            <button className={styles["button2"]} onClick={"tb"}>{t("give")}</button>
+            <button className={styles["button2"]} onClick={tb}>
+              {t("submit")}
+            </button>
           </form>
         </div>
       </div>

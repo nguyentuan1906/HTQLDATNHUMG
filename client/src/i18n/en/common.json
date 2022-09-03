@@ -50,6 +50,6 @@
   "name":" Name",
   "phone": "Phone",
   "email":"Email",
-  "import content":"Import content"
-
+  "import content":"Import content",
+  "submit":"Submit"
 }
