@@ -115,3 +115,65 @@
   font-size: medium;
 
 }
+
+.contact{
+  @media (max-width: 800px) {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.font2{
+  @media (max-width: 800px){
+    margin: 0;
+    padding: 0;
+    background-color: #2fa4e7;
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.contact__left{
+  @media (max-width: 800px){
+    margin: 0;
+    padding: 0;
+    background-color: #98ceeb;
+  }
+}
+
+.contact__right{
+  @media (max-width: 800px){
+    margin: 0;
+    padding: 5px;
+    background-color: #98ceeb;
+  }
+}
+
+.font3{
+  @media (max-width: 800px){
+    padding: 20px 0 5px 0;
+    font-weight: 600;
+    font-size: 20px;
+  }
+}
+
+.box{
+  @media (max-width: 800px){
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.button2{
+  @media (max-width: 800px){
+    padding: 0;
+    margin: 0;
+    background-color: #2fa4e7;
+    height: 40px;
+    margin-bottom: 20px;
+  }
+}

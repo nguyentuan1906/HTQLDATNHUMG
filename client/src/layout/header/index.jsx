@@ -33,6 +33,7 @@ const Header = () => {
         <Button text={t('login')} className={"button button-big"} onClick={onLogin} />
         <Button text={t('contact')} className={"button button-big"} onClick={onContact} />
         <Button text={t('about')} className={"button button-big"} onClick={onAbout} />
+        
         <select name="language" onChange={onChange}>
           <option value="en">{t('english')}</option>
           <option value="vn">{t("vietnamese")}</option>

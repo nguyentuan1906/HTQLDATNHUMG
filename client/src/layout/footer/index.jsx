@@ -35,7 +35,7 @@ const Footer = () => {
     },
     {
       id: 4,
-      name:t("c") ,
+      name: t("c"),
       link: "/",
     },
     {
@@ -48,8 +48,10 @@ const Footer = () => {
     <div>
       <div className={styles["footer"]}>
         <div className={styles["h_footer"]}>
-          <div className={styles["h1_footer"]}>{t("h1_footer")}</div>
-          <div className={styles["h2_footer"]}>{t("h2_footer")}</div>
+          <div className={styles["h12_footer"]}>
+            <div className={styles["h1_footer"]}>{t("h1_footer")}</div>
+            <div className={styles["h2_footer"]}>{t("h2_footer")}</div>
+          </div>
           <div className={styles["h3_map"]}>
             <img src="./map1.png" alt="Đại học mỏ địa - chất" />
           </div>
