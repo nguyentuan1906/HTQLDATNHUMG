@@ -1,0 +1,102 @@
+.s_ProjectStyle{
+    padding: 5px;
+    @media (max-width: 800px) {
+        display: none;
+        padding: 0;
+     }
+}
+
+.s_ProjectName{
+    border-radius: 5px 5px 0px 0px;
+    height: 30px;
+    background-color:  #3EAAE8;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    @media (max-width: 800px) {
+        display: none;
+        padding: 0;
+     }
+}
+
+.sp_Stt{
+    flex:1;
+    text-align: center;
+}
+
+.sp_Msv{
+    flex:2;
+    text-align: center;
+}
+
+.sp_Author{
+    flex: 2;
+    text-align: center;
+}
+
+.sp_Name{
+    flex: 4;
+    text-align: center;
+}
+
+.sp_Instructor{
+    flex: 2;
+    text-align: center;
+}
+
+.sp_ReviewerTeacher{
+    flex: 2;
+    text-align: center;
+}
+
+.sp_Preview{
+    flex: 1;
+    text-align: center;
+}
+
+
+.sp_Download{
+    flex: 2;
+    text-align: center;
+}
+
+.s_ProjectList{
+    @media (max-width: 800px) {
+        display: none;
+        padding: 0;
+     }
+}
+
+.s_ProjectItem{
+    padding: 5px 0px;
+    background-color:  #C3E4F6;
+    font-size: 17px;
+    color: rgb(59, 59, 59);
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid #c2c2c2;
+}
+
+.s_ProjectItem:hover{
+    background-color: #98ceeb;
+    color: black;
+}
+
+.s_ProjectStyle{
+    @media (max-width: 800px) {
+        padding: 0;
+        background-color:  #C3E4F6;
+        color: rgb(59, 59, 59);
+        border-bottom: 2px solid #c2c2c2;
+    }
+}
+
+.s_ProjectPhone{
+    display: none;
+    @media (max-width: 800px) {
+        display: inline-block;
+     }
+}
