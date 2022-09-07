@@ -12,7 +12,6 @@ import {
   TelegramShareButton,
   TelegramIcon,
 } from "react-share";
-
 const Footer = () => {
   const { t } = useTranslation();
   const shareUrl = "http://github.com";
